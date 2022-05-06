@@ -1,4 +1,4 @@
-# Useful_linux_commands
+# Useful Linux commands
 Just Linux commands for your daily activities
 
 
